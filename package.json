@@ -1,0 +1,23 @@
+{
+  "name": "express_crash",
+  "version": "1.0.0",
+  "description": "express",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dzsoldado/express_crash.git"
+  },
+  "author": "big boss",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dzsoldado/express_crash/issues"
+  },
+  "homepage": "https://github.com/dzsoldado/express_crash#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
